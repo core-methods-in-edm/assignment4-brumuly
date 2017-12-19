@@ -5,7 +5,7 @@ output: html_document
 ## Data
 The data you will be using comes from the Assistments online intelligent tutoring system (https://www.assistments.org/). It describes students working through online math problems. Each student has the following data associated with them:
 
-- id.
+- id
 - prior_prob_count: How many problems a student has answered in the system prior to this session
 - prior_percent_correct: The percentage of problems a student has answered correctly prior to this session
 - problems_attempted: The number of problems the student has attempted in the current session
